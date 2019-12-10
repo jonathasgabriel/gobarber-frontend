@@ -1,4 +1,4 @@
-# gobarber-front
+# gobarber-frontend
 A complete application for scheduling and managing beauty services
 
 This frontend is implemented in  **React.js** and consumes the GoBarber API available at [gobarber-backend](https://github.com/jonathasgabriel/gobarber-backend). This client is used by providers only. The react-native mobile application is used by customers and is available at [gobarber-mobile](https://github.com/jonathasgabriel/gobarber-mobile).
