@@ -10,7 +10,6 @@ Providers are able to:
 - View notifications regarding new appoinments
 - View the dashboard with all scheduled appointments by date
 - Log out from the application
-([screenshots](https://github.com/jonathasgabriel/gobarber-frontend/tree/master/public/assets/screenshots))
 
 ## some of the leveraged techs/libs/tools
 - Axios
@@ -20,6 +19,9 @@ Providers are able to:
 - React toastify
 - React redux
 - Redux saga
+
+##  demo
+![](gobarber-frontend.gif)
 
 ## how to run
 
