@@ -26,4 +26,4 @@ Providers are able to:
 ## how to run
 
 - You need to have the backend API running in order to be able to use this client. Please refer to [backend](https://github.com/jonathasgabriel/gobarber-backend) for further instructions
-- In the root directory, run `yarn` to resolve node packages and then `yarn start` to start the application (it will be available at [gympoint-localhost](http://localhost:3000/))
+- In the root directory, run `yarn` to resolve node packages and then `yarn start` to start the application (it will be available at [gobarber-localhost](http://localhost:3000/))
