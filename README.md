@@ -1,7 +1,7 @@
 # gobarber-front
 A complete application for scheduling and managing beauty services
 
-This frontend is implemented in  **React.js** and consumes the GoBarber API available at [gobarber-backend](https://github.com/jonathasgabriel/gobarber-backend). This client is intended for use by providers only.
+This frontend is implemented in  **React.js** and consumes the GoBarber API available at [gobarber-backend](https://github.com/jonathasgabriel/gobarber-backend). This client is used by providers only. The react-native mobile application is used by customers and is available at [gobarber-mobile](https://github.com/jonathasgabriel/gobarber-mobile).
 
 ## features
 Providers are able to:
@@ -12,7 +12,16 @@ Providers are able to:
 - Log out from the application
 ([screenshots](https://github.com/jonathasgabriel/gobarber-frontend/tree/master/public/assets/screenshots))
 
+## some of the leveraged techs/libs/tools
+- Axios
+- ESLint, Prettier, EditorConfig
+- Styled components
+- Reactotron
+- React toastify
+- React redux
+- Redux saga
+
 ## how to run
 
-- You must have the [backend](https://github.com/jonathasgabriel/gobarber-backend) up and running
-- In the root directory, run `yarn` and then `yarn start`
+- You need to have the backend API running in order to be able to use this client. Please refer to [backend](https://github.com/jonathasgabriel/gobarber-backend) for further instructions
+- In the root directory, run `yarn` to resolve node packages and then `yarn start` to start the application (it will be available at [gympoint-localhost](http://localhost:3000/))
